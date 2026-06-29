@@ -1,2 +1,2 @@
 const f = ''
-const rt=''
+const rt='123'
